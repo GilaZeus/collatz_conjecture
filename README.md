@@ -60,7 +60,7 @@ To check this, let's fit linear models `m * x_n + q` to each 100 elements for ev
 ![Pasted image 20240505195517.png](images/Pasted-image-20240505195517.png)
 ![Pasted image 20240505200051.png](images/Pasted-image-20240505200051.png)
 
-Look at the differences between each n and m (ignoring those with different of zero):
+Look at the differences between each n and m (ignoring those with difference of zero):
 ![Pasted image 20240505195656.png](images/Pasted-image-20240505195656.png)
 ![Pasted image 20240505200034.png](images/Pasted-image-20240505200034.png)
 
