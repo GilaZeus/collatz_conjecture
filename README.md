@@ -66,4 +66,4 @@ Look at the differences between each n and m (ignoring those with difference of 
 
 Obviously, differences become 0 with time. That means that from some point, the `log(k * x_n + b)` can be represented as a linear function `m * x_n + q`.
 
-And since it is a linear function, we can definitely find a natural x_n that solves it, what refutes the Collatz conjecture.
+And since it is a linear function, we can definitely find a natural x_n (and an x to x_n) that solves it, what refutes the Collatz conjecture.
