@@ -1,4 +1,4 @@
-# Refutation of Collatz conjecture
+# Refutation of the Collatz conjecture
 Imagine that we have a number x that never collapses. First 5 elements of the sequence for it would be:
 ```
 f(1.00x + 0.00) = 3.0(1.00x + 0.00) + 1 = 3.00x + 1.00
@@ -54,7 +54,7 @@ Separate even and uneven numbers:
 ![Pasted image 20240505194338.png](images/Pasted-image-20240505194338.png)
 If you look closer to the beginning of the graph, it is clear that it is not a linear function:
 ![Pasted image 20240505194423.png](images/Pasted-image-20240505194423.png)
-But is there a part of it that becomes clear somewhere close to -> ∞?
+But is there a part of it that becomes linear somewhere close to -> ∞?
 
 To check this, let's fit linear models `m * x_n + q` to each 100 elements for even and uneven rows:
 ![Pasted image 20240505195517.png](images/Pasted-image-20240505195517.png)
