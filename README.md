@@ -1,4 +1,4 @@
-# Refutation of the Collatz conjecture
+# Refutation of the Collatz conjecture (joke)
 Imagine that we have a number x that never collapses. First 5 elements of the sequence for it would be:
 ```
 f(1.00x + 0.00) = 3.0(1.00x + 0.00) + 1 = 3.00x + 1.00
